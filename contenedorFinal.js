@@ -163,6 +163,7 @@ class contenedorF {
         }
     }
 
+    
     deleteAllAsync(){
         try {
             let datos = this.getAll();
